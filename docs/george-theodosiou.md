@@ -3,3 +3,4 @@
 - [ ] Sushi 
 - [ ] Tango Dancing 
 - [ ] Green
+- [ ] Gym
